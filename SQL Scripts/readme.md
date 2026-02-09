@@ -21,16 +21,19 @@ SQL Scripts/
 -- Notes:
 ```
 
-## Example Script
+## Example Scripts
 
 - **Retail performance analysis**: `analysis/retail_performance.sql` aggregates revenue and margin by category and region.
+- **Customer retention cohorts**: `analysis/customer_retention_cohorts.sql` calculates monthly retention rates by channel.
+- **Marketing funnel conversion**: `analysis/marketing_funnel_conversion.sql` measures stage conversion by channel.
+- **Data prep cleaning**: `data_prep/clean_orders.sql` standardizes order fields.
+- **Weekly KPI rollup**: `reporting/weekly_kpi_rollup.sql` produces executive KPIs.
 
 ## Suggested Scripts
 
-- **Cohort retention analysis**
-- **Funnel conversion rates**
-- **Weekly KPI rollups**
 - **Customer LTV calculations**
+- **Churn prediction feature set**
+- **Inventory aging**
 
 ## SQL Best Practices
 

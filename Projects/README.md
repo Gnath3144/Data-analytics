@@ -21,3 +21,10 @@ Projects/
 - **Key insights** (simple language + evidence)
 - **Recommendations** (clear action items)
 - **Next steps** (what to analyze next)
+
+## Available Case Studies
+
+- **Retail Performance**: margin growth by category and region.
+- **Customer Retention & Cohorts**: retention by acquisition channel.
+- **Marketing Funnel Optimization**: conversion drop-offs by channel.
+- **Operations SLA Monitoring**: SLA misses by team and priority.
